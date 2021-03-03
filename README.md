@@ -1,1 +1,1 @@
-# JavaFX Login Form with SQL database
+# JavaFX Login Form
