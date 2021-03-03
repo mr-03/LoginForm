@@ -35,7 +35,7 @@ public class EmailService {
         }catch (Exception e) {
             e.printStackTrace();
             System.out.println("Email/Password not set correctly (src/json/gmaildata.json)");
-            System.out.println("test");
+
         }
         return userData;
     }
